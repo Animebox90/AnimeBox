@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "18+Anime"
+  ],
+  "anime": [
+    {
+      "id": 185211,
+      "anilistId": 185211,
+      "title": {
+        "english": "Yowayowa Sensei",
+        "romaji": "Yowa Yowa Sensei",
+        "native": "よわよわ先生",
+        "userPreferred": "Yowayowa Sensei"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/1WDp9RjN7odYw490WLNw79iceLa.jpg",
+      "coverImage": "https://image.tmdb.org/t/p/w500/1WDp9RjN7odYw490WLNw79iceLa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "description": "Hiyori Hiwamura is known as the \"Scary Teacher,\" and if you offend her, she'll put a curse on you! Or at least that's what everyone believes. She's secretly a total softy who's deeply misunderstood, and once you see her sweet side, she'll put a different kind of spell on you.",
+      "contentType": "series",
+      "format": "TV",
+      "tmdbId": 284447,
+      "imdbId": "tt38895862",
+      "category": "18+Anime",
+      "addedAt": "2026-09-19T11:47:29.194Z"
+    },
+    {
+      "id": 113417,
+      "source": "tmdb",
+      "anilistId": 113417,
+      "tmdbId": 95897,
+      "imdbId": "tt14962432",
+      "title": {
+        "english": "Overflow",
+        "romaji": "Overflow",
+        "native": "おーばーふろぉ"
+      },
+      "poster": "https://image.tmdb.org/t/p/w500/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+      "coverImage": "https://image.tmdb.org/t/p/w1280/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+      "genres": [
+        "Animation"
+      ],
+      "description": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+      "contentType": "series",
+      "format": "TV",
+      "status": "Ended",
+      "releaseDate": "2020-01-06",
+      "category": "18+Anime",
+      "addedAt": "2026-09-19T16:23:59.509Z",
+      "tmdbSeasons": [
+        {
+          "air_date": "2020-01-06",
+          "episode_count": 8,
+          "id": 136626,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/pE2v7nbYcv6FTfRApYOFTo4INfC.jpg",
+          "season_number": 1,
+          "vote_average": 7.2
+        }
+      ]
+    }
+  ]
+}
