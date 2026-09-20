@@ -24,7 +24,7 @@ import {
 
 import "./styles.css";
 
-const API = "http://localhost:4000/api";
+const API = "https://animebox-qd7p.onrender.com/api";
 
 const FALLBACK_POSTER =
   "https://via.placeholder.com/500x750/16181e/ffffff?text=No+Poster";
