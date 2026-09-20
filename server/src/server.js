@@ -10,9 +10,28 @@ const ANILIST_URL = "https://graphql.anilist.co";
 const TMDB_BASE = "https://api.themoviedb.org/3";
 const TMDB_IMAGE = "https://image.tmdb.org/t/p";
 
+const allowedOrigins = [
+  "http://localhost:5173",
+  "http://localhost:5174",
+  "https://anime-box-livid.vercel.app",
+];
+
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: function (origin, callback) {
+      // Postman/curl/server-side requests
+      if (!origin) {
+        return callback(null, true);
+      }
+
+      if (allowedOrigins.includes(origin)) {
+        return callback(null, true);
+      }
+
+      return callback(
+        new Error(`CORS blocked: ${origin}`)
+      );
+    },
     credentials: true,
   })
 );
